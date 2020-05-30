@@ -1,5 +1,5 @@
 # Brain-Trainer
-# Latest Version 1.2, 
+# Latest Version 1.2 
                            updated against previous versions 1.1 and 1.0 
 
 
