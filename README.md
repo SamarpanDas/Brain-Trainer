@@ -1,6 +1,9 @@
 # Brain-Trainer
+# Latest Version 1.2, 
+                           updated against previous versions 1.1 and 1.0 
 
-Think you are good at calculating small mathematical operations ? 
+
+Think you are good at calculating mathematical operations ? 
 
 Go test your skills with the Brain Trainer App !!!
 
