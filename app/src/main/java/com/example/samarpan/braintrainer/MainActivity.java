@@ -125,6 +125,7 @@ public class MainActivity extends AppCompatActivity
             Log.i("wrong ans", "OK");
             resultTextView.setText("Wrong !");
             resultTextView.setVisibility(View.VISIBLE);
+            score--;  //negative marking introduced
 
         }
 
