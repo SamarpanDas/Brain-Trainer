@@ -16,4 +16,6 @@ It's tailor made for all of it.
 Go give Brain Trainer a try.
 
 
-Note : Brain Trainer is compatible with all Android Devices.
+Note : Brain Trainer is compatible with most Android Devices.
+
+Feel free to report bugs in the application at : mailme.samarpandas@gmail.com
